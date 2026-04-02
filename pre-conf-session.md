@@ -8,8 +8,6 @@
 
 Bill Erickson & Jane Sandberg
 
-Software Development Engineer, King County Library System
-
 [https://github.com/berick/Presentations/tree/main/Evergreen-2026]()
 
 ---
@@ -20,18 +18,20 @@ A brief, practical guide to hacking Evergreen.
 
 ---
 
-# Create Development VMs
-
-Brief discussion of options then refer to Blake's `Taming Evergreen` that
-afternoon which (I believe) goes into more detail re: building VMs.
-
----
-
 # Architecture Recap
 
 * probably some pictures
 * maybe some zooms to indicate the nested nature (listeners, drones, etc.)
 * C / Perl / IDL / Angular / Routers / Services / Redis / Postgres
+
+---
+
+# Create Development VMs
+
+Brief discussion of options then refer to Blake's `Taming Evergreen` that
+afternoon which (I believe) goes into more detail re: building VMs.
+
+Everything running on a single VM/container.
 
 ---
 
@@ -52,5 +52,4 @@ afternoon which (I believe) goes into more detail re: building VMs.
 # Working with Angular
 
 * Jane fixes a bug
-
 
