@@ -1,6 +1,6 @@
 <!-- class: invert -->
 
-<!-- Building: marp -w pre-conf-session.md -->
+<!-- Building: npx @marp-team/marp-cli@latest -w pre-conf-session.md -->
 
 # Getting Started in Evergreen Development
 
@@ -18,20 +18,20 @@ A brief, practical guide to hacking Evergreen.
 
 ---
 
-# Architecture Recap
-
-* probably some pictures
-* maybe some zooms to indicate the nested nature (listeners, drones, etc.)
-* C / Perl / IDL / Angular / Routers / Services / Redis / Postgres
-
----
-
 # Create Development VMs
 
 Brief discussion of options then refer to Blake's `Taming Evergreen` that
 afternoon which (I believe) goes into more detail re: building VMs.
 
-Everything running on a single VM/container.
+---
+
+![bg width:800px](Evergreen-Monolith.svg)
+
+---
+
+# Architecture Recap
+
+* C / Perl / Angular / IDL / Angular / Services / Redis / Postgres
 
 ---
 
