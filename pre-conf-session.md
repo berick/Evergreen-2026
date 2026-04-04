@@ -81,6 +81,7 @@ afternoon which (I believe) goes into more detail re: building VMs.
 ---
 # Fixing bugs
 
+1. Make a hypothesis as to where the problem is
 1. Consider extracting the offending code into something simpler
 1. Write a failing test that captures the issue
 1. Edit the code to get the test passing
