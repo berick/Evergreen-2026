@@ -24,33 +24,39 @@ Brief discussion of options then refer to Blake's `Taming Evergreen` that
 afternoon which (I believe) goes into more detail re: building VMs.
 
 ---
+# So You Built a VM
 
 ![bg width:800px](Evergreen-Monolith.svg)
 
 ---
 
-# Architecture Recap
-
-* C / Perl / Angular / IDL / Angular / Services / Redis / Postgres
+# Stopping, Starting, Reviewing
 
 ---
 
-# Debugging Tools
+# IDL All The Way Down
 
-* logs
+* /openils/conf/fm_IDL.xml
+* https://evgtesting.kcls.org/IDL2js
+* https://evgtesting.kcls.org/IDL2js?au,aou
+* https://evgtesting.kcls.org/reports/fm_IDL.xml
+
+---
+
+# Testin' and Troubleshootin'
+
+* Logs
 * srfsh
-* ...
+* Gateway
 
 ---
 
-# 5 minute break
+# API Development
+
+* Bill does a thing
 
 ---
-# Working with Perl
 
-* Bill fixes a bug
-
----
 # 5 minute break
 
 ---
