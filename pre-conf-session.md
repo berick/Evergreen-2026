@@ -8,7 +8,8 @@
 
 Bill Erickson & Jane Sandberg
 
-[https://github.com/berick/Presentations/tree/main/Evergreen-2026]()
+[https://github.com/berick/Presentations/tree/main/Evergreen-2026](
+    https://github.com/berick/Presentations/tree/main/Evergreen-2026)
 
 ---
 
@@ -20,8 +21,10 @@ A brief, practical guide to hacking Evergreen.
 
 # Create Development VMs
 
-Brief discussion of options then refer to Blake's `Taming Evergreen` that
-afternoon which (I believe) goes into more detail re: building VMs.
+* [https://github.com/berick/evergreen-ansible-installer](https://github.com/berick/evergreen-ansible-installer)
+* [https://github.com/mcoia/eg-docker](https://github.com/mcoia/eg-docker)
+  * [https://evergreen-ils.org/2026-evergreen-international-conference-2/2026-conference-schedule/](
+        https://evergreen-ils.org/2026-evergreen-international-conference-2/2026-conference-schedule/)
 
 ---
 
