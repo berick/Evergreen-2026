@@ -24,17 +24,21 @@ Brief discussion of options then refer to Blake's `Taming Evergreen` that
 afternoon which (I believe) goes into more detail re: building VMs.
 
 ---
-# So You Built a VM
 
 ![bg width:800px](Evergreen-Monolith.svg)
 
 ---
+<style scoped>a { font-size: .6em; }</style>
 
-# Stopping, Starting, Reviewing
+# OSRF\_CONTROL CENTER
+
+![width:400px](backpacking.jpg)
+
+[https://www.flickr.com/photos/nasacommons/5134455469/in/album-72157649059305918]()
 
 ---
 
-# IDL All The Way Down
+# IDL: The Tie that Binds
 
 * /openils/conf/fm_IDL.xml
 * https://evgtesting.kcls.org/IDL2js
@@ -43,17 +47,15 @@ afternoon which (I believe) goes into more detail re: building VMs.
 
 ---
 
-# Testin' and Troubleshootin'
+# Troubleshootin'
 
 * Logs
 * srfsh
-* Gateway
+* Postgres
 
 ---
 
-# API Development
-
-* Bill does a thing
+# Building a Pending Patron Search API
 
 ---
 
