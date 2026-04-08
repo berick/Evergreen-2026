@@ -25,19 +25,25 @@ A brief, practical guide to hacking Evergreen.
 * [https://github.com/mcoia/eg-docker](https://github.com/mcoia/eg-docker)
   * [https://evergreen-ils.org/2026-evergreen-international-conference-2/2026-conference-schedule/](
         https://evergreen-ils.org/2026-evergreen-international-conference-2/2026-conference-schedule/)
+* [https://evergreen-ils.org/documentation/install/README\_3\_17.html](
+    https://evergreen-ils.org/documentation/install/README_3_17.html)
+
+---
+<style scoped>a { font-size: .6em; }</style>
+
+# Liftoff
+
+![width:400px](backpacking.jpg)
+
+[https://www.flickr.com/photos/nasacommons/5134455469/in/album-72157649059305918]()
 
 ---
 
 ![bg width:800px](Evergreen-Monolith.svg)
 
 ---
-<style scoped>a { font-size: .6em; }</style>
 
 # OSRF\_CONTROL CENTER
-
-![width:400px](backpacking.jpg)
-
-[https://www.flickr.com/photos/nasacommons/5134455469/in/album-72157649059305918]()
 
 ---
 
